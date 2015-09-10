@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AlarmForICS</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome to Alarm for ics</string>
+    <string name="choose">Choose your way of input for ics file below</string>
+    <string name="link">Insert link to schedule</string>
+    <string name="file">Choose file</string>
+    <string name="title_activity_to_link">ToLink</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_to_file">ToFile</string>
+    <string name="insert_link">Insert link to ics file</string>
+    <string name="help_timeedit">Insert URL with ending .ics, in TimeEdit by choosing rolling updates</string>
+    <string name="link_hint">Insert URL here!</string>
+    <string name="send_link">Send link</string>
+</resources>
